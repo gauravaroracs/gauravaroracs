@@ -1,15 +1,15 @@
 # Hi, I'm Gaurav Arora
 
-I'm a Master's student in Computer Science at TU Darmstadt, interested in AI, software engineering, product development, and automation.
+I'm a Master's student in Computer Science at TU Darmstadt, based in Darmstadt, Germany.
 
-I enjoy building practical tools, learning new technologies through projects, and working at the intersection of software, users, and business problems.
+I'm interested in building practical software products at the intersection of AI, full-stack development, automation, and product operations. I like learning by building: turning unclear problems into structured workflows, testing tools from a user perspective, and improving them step by step.
 
 ## Current Focus
 
-- Building projects with AI-assisted development tools
-- Learning full-stack development and modern software workflows
-- Exploring SaaS, product operations, and automation
-- Improving my German while studying and working in Germany
+- Building AI-assisted software projects using modern development tools
+- Improving my full-stack development skills with TypeScript, React, Node.js, and APIs
+- Exploring SaaS products, product operations, user feedback, and go-to-market workflows
+- Strengthening my German for academic and professional communication in Germany
 
 ## Tech Stack
 
@@ -23,23 +23,25 @@ I enjoy building practical tools, learning new technologies through projects, an
 
 ### Personal Website
 
-A personal portfolio website built to present my profile, projects, and technical interests.
+A portfolio website to present my profile, projects, technical interests, and professional background.
 
 ### Custom CV Builder
 
-A TypeScript-based project focused on creating and customizing CVs.
+A TypeScript-based project for creating and customizing structured CVs with reusable components and templates.
 
 ### Learn AI
 
-A collection of notebooks and experiments while learning AI and machine learning concepts.
+A collection of notebooks, experiments, and notes while learning AI, machine learning, and LLM-related concepts.
 
 ### Learn Rust
 
-A learning repository documenting my progress with Rust programming.
+A learning repository documenting my progress with Rust programming through examples and small exercises.
 
 ## What I'm Looking For
 
-I'm interested in working student roles in software development, AI, product operations, SaaS, automation, and digitalization.
+I'm looking for working student roles in software development, AI, SaaS, product operations, automation, and digitalization.
+
+I am especially interested in roles where I can work close to the product, understand user problems, structure feedback, and contribute to practical software solutions.
 
 ## Connect
 
