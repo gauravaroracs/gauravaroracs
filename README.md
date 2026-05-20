@@ -44,11 +44,11 @@
 ## More Projects
 
 - [German B1 Website](https://github.com/gauravaroracs/german-b1-website) / [Live](https://german-b1-website.vercel.app/) - React learning tool for sentence correction and German practice
-- [German Vocab Logger](https://github.com/gauravaroracs/learnGerman) - n8n workflow for capturing and enriching German vocabulary
 - [Ease Reading](https://github.com/gauravaroracs/easeReading) - Browser reading experiment focused on pace and readability
 
 ## Automation Workflows
 
+- [German Vocab Logger](https://github.com/gauravaroracs/learnGerman) - n8n workflow for capturing and enriching German vocabulary
 - [Jobs Automation](https://github.com/gauravaroracs/JobsAutomation) - n8n workflows for job discovery, AI scoring, Google Sheets tracking, and tailored CV generation
 - [Expense Management](https://github.com/gauravaroracs/expenseManagement) - Telegram and Google Sheets workflow for parsing expenses, logging entries, and summarizing spending
 
