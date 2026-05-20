@@ -38,7 +38,7 @@
 ## Featured Work
 
 - [Personal Website](https://github.com/gauravaroracs/personal-website) / [Live](https://gaurav-arora-cs.vercel.app/) - Portfolio site with a responsive layout and optional gaze-scrolling experiment
-- [Track My Life](https://github.com/gauravaroracs/TrackMyLife) / [Live](https://life-timeline.vercel.app/) - Life-tracking app with interactive timeline rails and habit charts
+- [Track My Life](https://github.com/gauravaroracs/TrackMyLife) / [Live](https://life-timeline-omega-seven.vercel.app/) - Life-tracking app with interactive timeline rails and habit charts
 - [LabProcure](https://github.com/gauravaroracs/ai-scientist-hacknation) / [Live](https://lab-procure.vercel.app/) - Hackathon project for hypothesis-to-experiment planning with voice and chat
 
 ## More Projects
