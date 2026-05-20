@@ -58,7 +58,7 @@
 - SQL Join Playground / [Live](https://learn-join.vercel.app/) - Interactive project for learning SQL joins visually
 - Start Small / [Live](https://start-small.vercel.app/) - Static reset ritual page for breathing, journaling, and action planning
 - Save My Brain From Brain Rot / [Live](https://save-my-brain-from-brain-rot.vercel.app/) - Focus planner with a Vite frontend and optional AI schedule API
-- SS26 / [Live](https://ss26.vercel.app/) - Semester planning and study support project
+- SS26 / [Live](https://ss26-drab.vercel.app/) - Semester planning and study support project
 
 ## What I'm Looking For
 
