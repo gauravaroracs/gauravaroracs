@@ -50,6 +50,16 @@
 - [PureZenith Design](https://github.com/gauravaroracs/purezenith-design) - Product-style UI prototype built with React, TypeScript, and Tailwind
 - [Hack Nation](https://github.com/gauravaroracs/hack-nation) - Next.js/Supabase hackathon project work
 
+## Also Built
+
+- Convert Text to Notes - Turns study text into clean revision notes and aesthetic handwritten-style layouts
+- Shivalik Floor Plan Viewer - Browser-based 2D floor-plan viewer for a later 3D workflow
+- One Percent Better - Habit dashboard for turning goals into daily micro-actions
+- Rap Speed Trainer - Browser practice tool for rap timing and repetition
+- SQL Join Playground - Interactive project for learning SQL joins visually
+- Start Small - Static reset ritual page for breathing, journaling, and action planning
+- Save My Brain From Brain Rot - Focus planner with a Vite frontend and optional AI schedule API
+
 ## What I'm Looking For
 
 Working student roles in software development, AI, SaaS, product operations, automation, or digitalization.
